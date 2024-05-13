@@ -14,21 +14,21 @@ proyectos y mis intereses.
 
 ## Información personal
 
-* Nombre: [Tu nombre]
+* Nombre: [Cristhian Muñoz]
 
-* Ocupación: [Tu ocupación]
+* Ocupación: [Estudiante de Computación en Espol]
 
-* Lugar de residencia: [Tu lugar de residencia]
+* Lugar de residencia: [Guayaquil, Ecuador]
 
-* Sitio web: [Tu sitio web]
+* Sitio web: [Próximamente]
 
 ## Proyectos
 
-* [Lista de tus proyectos]
+* [En proceso]
 
 ## Intereses
 
-* [Lista de tus intereses]
+* [Anime, Videojuegos, Programación]
 
 
 <!--
