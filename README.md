@@ -14,21 +14,25 @@ proyectos y mis intereses.
 
 ## Información personal
 
-* Nombre: [Cristhian Muñoz]
+* Nombre: Cristhian Muñoz
 
-* Ocupación: [Estudiante de Computación en Espol]
+* Ocupación: Estudiante de Computación en Espol
 
-* Lugar de residencia: [Guayaquil, Ecuador]
+* Lugar de residencia: Guayaquil, Ecuador
 
-* Sitio web: [Próximamente]
+* Sitio web: Próximamente
+
+## Actualmente
+
+* Aprendiendo ASM, C y JS
 
 ## Proyectos
 
-* [En proceso]
+* En proceso
 
 ## Intereses
 
-* [Anime, Videojuegos, Programación]
+* Anime, Marvel, Programación, Star Wars, Videojuegos
 
 
 <!--
